@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/profile.png" width="160" alt="Harsh Sinha" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/harsh-sinha-542140251"><img src="https://img.shields.io/badge/LinkedIn-b4492a?style=flat-square&logo=linkedin&logoColor=e8e2d6" /></a>
   <a href="https://leetcode.com/harshsinha4141000"><img src="https://img.shields.io/badge/LeetCode-141210?style=flat-square&logo=leetcode&logoColor=e8e2d6" /></a>
   <a href="mailto:harshsinha9122@gmail.com"><img src="https://img.shields.io/badge/Email-b4492a?style=flat-square&logo=gmail&logoColor=e8e2d6" /></a>
@@ -25,11 +29,11 @@
 ### `§ 02 — LEDGER`
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsinha4141&theme=default" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsinha4141&theme=github_dark" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsinha4141&theme=default" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsinha4141&theme=default" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsinha4141&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsinha4141&theme=github_dark" />
 </p>
 
 ### `§ 03 — CONTRIBUTIONS`
