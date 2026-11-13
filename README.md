@@ -1,42 +1,50 @@
-![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNvZGluZyUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D)
+<p align="center">
+  <img src="assets/masthead.svg" width="100%" alt="Harsh Sinha — Engineer" />
+</p>
 
+<table align="center"><tr>
+<td width="190" align="center">
+  <img src="assets/profile.png" width="170" alt="Harsh Sinha" />
+</td>
+<td>
 
-## Hi there 👋
+Full-stack engineer shipping the **boring infrastructure that keeps logistics moving** — REST APIs that talk to GST portals, dashboards that flag inventory before warehouses run dry, and refactored monoliths that stop bleeding minutes off every dispatch.
 
-# 💫 About Me:
-Hi there, I’m Harsh Sinha 👋<br>Computer Science Student | Developer | Lifelong Learner<br><img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg">🔭 Currently exploring Node.js, React, and MERN stack projects.<br><br>🌱 Learning about RESTful APIs, JWT authentication, and SSR vs CSR.<br><br>💻 Tools & Technologies: Git, MongoDB, SQL.<br><br>🚀 Skills: Proficient in Java, Node.js, React.js, Express.js, MERN Stack, and EJS.<br><br>📘 Recently completed courses on Cybersecurity, Packet Tracer, and Machine Learning.<br><br>💡 Interested in building innovative tech solutions.<br><br>🛠 Proficient in solving algorithms .<br><br>⚡ Fun Facts:<br>* Passionate about Cricket.
+<sub><code>— CURRENTLY AT <b>ACCENTURE</b> · PREVIOUSLY <b>MYLO</b> · <b>GURUGRAM</b></code></sub>
 
+<a href="https://www.linkedin.com/in/harsh-sinha-542140251"><img src="https://img.shields.io/badge/LinkedIn-b4492a?style=flat-square&logo=linkedin&logoColor=e8e2d6" /></a>
+<a href="https://leetcode.com/harshsinha4141000"><img src="https://img.shields.io/badge/LeetCode-141210?style=flat-square&logo=leetcode&logoColor=e8e2d6" /></a>
+<a href="mailto:harshsinha9122@gmail.com"><img src="https://img.shields.io/badge/Email-b4492a?style=flat-square&logo=gmail&logoColor=e8e2d6" /></a>
+<img src="https://komarev.com/ghpvc/?username=harshsinha4141&style=flat-square&color=141210&label=VISITORS" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-sinha-542140251/) 
+</td>
+</tr></table>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshsinha4141&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshsinha4141&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinha4141&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshsinha4141&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=B4492A&center=true&vCenter=true&width=640&lines=REST+APIs+%C2%B7+dashboards+%C2%B7+event+pipelines;Shipping+boring+things+that+don't+break;Hackathon+winner+%C2%B7+cricket+on+weekends" alt="typing" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshsinha4141&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**harshsinha4141/harshsinha4141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `§ 01 — ALMANAC`
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,react,nextjs,nodejs,express,nestjs,tailwind,redux&perline=11&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,kafka,docker,aws,vercel,githubactions,postman&perline=11&theme=light" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `§ 02 — LEDGER`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshsinha4141&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=e8e2d6&title_color=b4492a&text_color=3b3630&icon_color=b4492a&ring_color=b4492a" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinha4141&layout=compact&hide_border=true&bg_color=e8e2d6&title_color=b4492a&text_color=3b3630" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshsinha4141&hide_border=true&background=e8e2d6&ring=b4492a&fire=b4492a&currStreakNum=141210&sideNums=141210&currStreakLabel=b4492a&sideLabels=3b3630&dates=7a7268&stroke=c9c0b0" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshsinha4141/harshsinha4141/output/snake.svg" alt="contribution snake" />
+</p>
+
+<p align="center"><sub><code>AN ALMANAC OF PRODUCTION WORK, INDEXED, DATED, AND HONESTLY TOLD. ✳</code></sub></p>
