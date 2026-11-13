@@ -35,7 +35,7 @@
 ### `§ 03 — CONTRIBUTIONS`
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/b4492a/harshsinha4141" alt="contribution calendar" />
+  <img width="100%" src="https://ghchart.rshah.org/harshsinha4141" alt="contribution calendar" />
 </p>
 
 <p align="center"><sub><code>AN ALMANAC OF PRODUCTION WORK, INDEXED, DATED, AND HONESTLY TOLD. ✳</code></sub></p>
