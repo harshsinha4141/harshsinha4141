@@ -25,11 +25,11 @@
 ### `§ 02 — LEDGER`
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsinha4141&theme=solarized" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsinha4141&theme=default" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsinha4141&theme=solarized" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsinha4141&theme=solarized" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsinha4141&theme=default" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsinha4141&theme=default" />
 </p>
 
 ### `§ 03 — CONTRIBUTIONS`
