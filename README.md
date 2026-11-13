@@ -25,11 +25,17 @@
 ### `§ 02 — LEDGER`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshsinha4141&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=e8e2d6&title_color=b4492a&text_color=3b3630&icon_color=b4492a&ring_color=b4492a" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinha4141&layout=compact&hide_border=true&bg_color=e8e2d6&title_color=b4492a&text_color=3b3630" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsinha4141&theme=solarized" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshsinha4141&hide_border=true&background=e8e2d6&ring=b4492a&fire=b4492a&currStreakNum=141210&sideNums=141210&currStreakLabel=b4492a&sideLabels=3b3630&dates=7a7268&stroke=c9c0b0" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsinha4141&theme=solarized" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsinha4141&theme=solarized" />
+</p>
+
+### `§ 03 — CONTRIBUTIONS`
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/b4492a/harshsinha4141" alt="contribution calendar" />
 </p>
 
 <p align="center"><sub><code>AN ALMANAC OF PRODUCTION WORK, INDEXED, DATED, AND HONESTLY TOLD. ✳</code></sub></p>
