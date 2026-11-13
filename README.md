@@ -36,10 +36,4 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsinha4141&theme=github_dark" />
 </p>
 
-### `§ 03 — CONTRIBUTIONS`
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/harshsinha4141" alt="contribution calendar" />
-</p>
-
 <p align="center"><sub><code>AN ALMANAC OF PRODUCTION WORK, INDEXED, DATED, AND HONESTLY TOLD. ✳</code></sub></p>
